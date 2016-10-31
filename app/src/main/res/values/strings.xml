@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Word Scrabble</string>
+    <string name="text">How to play the game:"\n\n\n\n"
+1) There are two player. After starting the game enter a letter, then you can challenge or pass the turn to other player."\n\n"
+
+2)If you want to challenge then first click on the select text button and select the word by long clicking the letter and just press challenge button."\n\n"
+
+3)If you challenge to player2, if word is valid and has not used before then the score of your will be increamented by length of word otherwise
+score of the other player will be increamented by length of word."\n\n"
+
+3)You can reset the game by just clicking Reset button.All tiles will be empty. The score of both the players will be set to Zero."\n\n"
+
+4)Game would be complete when there is no empty tile."\n\n"
+
+5)Player with highest score will win the game."\n\n\n\n"
+
+
+Restriction:"\n\n"
+1) You can select word either in horizontal or vertical direction."\n\n"
+
+2) You can insert only one letter at a time."\n\n"
+
+3) You can select word only in the left to right direction for a row and in the top to down direction for a column."\n\n"
+
+ </string>
+    <string name="aboutus">
+        Created By :"\n\n"
+        1. Anjali Kumari"\n"
+        2. Deepak Kumar Goyal"\n"
+        3. Priyanka Singhal"\n"
+        4.  Vishal Kumar Raman "\n"
+
+
+    </string>
+</resources>
